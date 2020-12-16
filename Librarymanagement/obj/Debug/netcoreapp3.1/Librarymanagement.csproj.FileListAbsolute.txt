@@ -202,3 +202,13 @@ C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\bin\Debug\netcorea
 C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Librarymanagement.csproj.CoreCompileInputs.cache
 C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Librarymanagement.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Librarymanagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ala\source\repos\Librarymanagement\Librarymanagement\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs

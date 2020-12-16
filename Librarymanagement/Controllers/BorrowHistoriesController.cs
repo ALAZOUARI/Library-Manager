@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Librarymanagement.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Librarymanagement.Controllers
 {
+    [Authorize]
     public class BorrowHistoriesController : Controller
     {
         private readonly BookDbContext _context;

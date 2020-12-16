@@ -15,6 +15,7 @@ namespace Librarymanagement.Data
             : base(options)
         {
         }
+        public DbSet<LibrarytUser> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

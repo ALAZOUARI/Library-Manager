@@ -17,10 +17,16 @@ namespace Librarymanagement.Areas.Identity
         {
             builder.ConfigureServices((context, services) => {
                 services.AddDbContext<UserAuthDbContext>(options =>
-                    options.UseSqlite(
+                    options.UseSqlServer(
                         context.Configuration.GetConnectionString("UserAuthDbContextConnection")));
 
-                services.AddDefaultIdentity<LibrarytUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                services.AddDefaultIdentity<LibrarytUser>(options => {
+                    options.SignIn.RequireConfirmedAccount = false;
+                    options.Password.RequireLowercase = false;
+                    options.Password.RequireUppercase = false; 
+
+                    
+                    })
                     .AddEntityFrameworkStores<UserAuthDbContext>();
             });
         }
